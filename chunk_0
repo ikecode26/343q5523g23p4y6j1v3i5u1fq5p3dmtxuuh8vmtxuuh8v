@@ -1,0 +1,28 @@
+
+/* Thin */
+@font-face {
+  font-family: "serif";
+  src: url("./serift.ttc") format("truetype-collection");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Regular */
+@font-face {
+  font-family: "serif";
+  src: url("./serif.ttc") format("truetype-collection");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Bold */
+@font-face {
+  font-family: "serif";
+  src: url("./serifb.ttc") format("truetype-collection");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
